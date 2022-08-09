@@ -23,4 +23,4 @@ the help of arrow keys. Initially, the snake's length has set to three joints. E
 time the snake eats a food partical its body grows , and the length of the snake
 along with the score gets increased and it is displayed in the title. The snake
 must avoid its own body , if it hits its own body the game gets over. If the game
-is finished, the "Game Over" message is displayed in the middle of the board
+is finished, the "Game Over" message is displayed in the middle of the board along with score , length and Tap 'SPACE' to Restart messages.
